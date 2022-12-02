@@ -1,6 +1,6 @@
 ## Advanced CSS and Intro to JavaScript
 
-## Arrays
+## Arrays abcd
 
 ## Objectives
 
